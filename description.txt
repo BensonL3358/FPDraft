@@ -1,0 +1,4 @@
+Console Programming
+
+A console program is code in a console with an input and output. A console program can make something like a calculator into code. 
+Before, console applications were used to code but it was only on a text-only computer interface. Nowadays, we can use images and other inputs in our code instead of only text.
